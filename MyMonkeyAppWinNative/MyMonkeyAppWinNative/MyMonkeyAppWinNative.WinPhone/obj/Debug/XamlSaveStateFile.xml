@@ -1,10 +1,11 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
-    <ReferenceAssembly PathName="c:\users\user\documents\github\xamarine-testing\mymonkeyappwinnative\mymonkeyappwinnative\mymonkeyappwinnative\bin\debug\mymonkeyappwinnative.dll" HashGuid="288319df-c3d5-5eb7-5a60-0f044143ce7e" />
-    <ReferenceAssembly PathName="c:\users\user\documents\github\xamarine-testing\mymonkeyappwinnative\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.core.dll" HashGuid="c8a30eb8-5ae8-352d-b94f-7c913a7557ba" />
-    <ReferenceAssembly PathName="c:\users\user\documents\github\xamarine-testing\mymonkeyappwinnative\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
-    <ReferenceAssembly PathName="c:\users\user\documents\github\xamarine-testing\mymonkeyappwinnative\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="dbd728c2-e21b-4125-2be0-f7931b605baa" />
-    <ReferenceAssembly PathName="c:\users\user\documents\github\xamarine-testing\mymonkeyappwinnative\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="f7f417b9-5b4a-9692-10d4-bb874feaa2e9" />
-    <ReferenceAssembly PathName="c:\users\user\documents\github\xamarine-testing\mymonkeyappwinnative\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="2828b56a-3245-7d15-6650-dfb4f30cfa91" />
+    <LocalAssembly PathName="c:\users\utente\documents\github\xamarine-testing\mymonkeyappwinnative\mymonkeyappwinnative\mymonkeyappwinnative.winphone\obj\debug\intermediatexaml\mymonkeyappwinnative.winphone.exe" HashGuid="29353c2d-b71f-752c-be11-feffabea64fe" />
+    <ReferenceAssembly PathName="c:\users\utente\documents\github\xamarine-testing\mymonkeyappwinnative\mymonkeyappwinnative\mymonkeyappwinnative\bin\debug\mymonkeyappwinnative.dll" HashGuid="288319df-c3d5-5eb7-5a60-0f044143ce7e" />
+    <ReferenceAssembly PathName="c:\users\utente\documents\github\xamarine-testing\mymonkeyappwinnative\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.core.dll" HashGuid="c8a30eb8-5ae8-352d-b94f-7c913a7557ba" />
+    <ReferenceAssembly PathName="c:\users\utente\documents\github\xamarine-testing\mymonkeyappwinnative\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.dll" HashGuid="d9389e38-8a39-bed5-406b-7a34fe4704ea" />
+    <ReferenceAssembly PathName="c:\users\utente\documents\github\xamarine-testing\mymonkeyappwinnative\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="dbd728c2-e21b-4125-2be0-f7931b605baa" />
+    <ReferenceAssembly PathName="c:\users\utente\documents\github\xamarine-testing\mymonkeyappwinnative\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="f7f417b9-5b4a-9692-10d4-bb874feaa2e9" />
+    <ReferenceAssembly PathName="c:\users\utente\documents\github\xamarine-testing\mymonkeyappwinnative\packages\xamarin.forms.2.0.0.6482\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="2828b56a-3245-7d15-6650-dfb4f30cfa91" />
   </ReferenceAssemblyList>
 </XamlCompilerSaveState>

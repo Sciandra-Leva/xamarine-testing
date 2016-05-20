@@ -1,0 +1,16 @@
+C:\Users\Utente\Documents\GitHub\xamarine-testing\NewXamarinTest\NewXamarinTest\NewXamarinTest\bin\Debug\NewXamarinTest.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\NewXamarinTest\NewXamarinTest\NewXamarinTest\bin\Debug\NewXamarinTest.pdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\NewXamarinTest\NewXamarinTest\NewXamarinTest\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\NewXamarinTest\NewXamarinTest\NewXamarinTest\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\NewXamarinTest\NewXamarinTest\NewXamarinTest\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\NewXamarinTest\NewXamarinTest\NewXamarinTest\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Utente\Documents\GitHub\xamarine-testing\NewXamarinTest\NewXamarinTest\NewXamarinTest\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Utente\Documents\GitHub\xamarine-testing\NewXamarinTest\NewXamarinTest\NewXamarinTest\obj\Debug\NewXamarinTest.csprojResolveAssemblyReference.cache
+C:\Users\Utente\Documents\GitHub\xamarine-testing\NewXamarinTest\NewXamarinTest\NewXamarinTest\obj\Debug\NewXamarinTest.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\NewXamarinTest\NewXamarinTest\NewXamarinTest\obj\Debug\NewXamarinTest.pdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\NewXamarinTest\NewXamarinTest\NewXamarinTest\obj\Debug\NewXamarinTest.dll.mdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\NewXamarinTest\NewXamarinTest\NewXamarinTest\bin\Debug\NewXamarinTest.dll.mdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\NewXamarinTest\NewXamarinTest\NewXamarinTest\obj\Debug\NewXamarinTest.dll.mdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\NewXamarinTest\NewXamarinTest\NewXamarinTest\bin\Debug\NewXamarinTest.dll.mdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\NewXamarinTest\NewXamarinTest\NewXamarinTest\obj\Debug\NewXamarinTest.dll.mdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\NewXamarinTest\NewXamarinTest\NewXamarinTest\bin\Debug\NewXamarinTest.dll.mdb

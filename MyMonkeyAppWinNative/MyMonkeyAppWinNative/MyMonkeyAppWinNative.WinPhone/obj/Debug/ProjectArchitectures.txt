@@ -1,2 +1,0 @@
-C:\Users\Utente\Documents\GitHub\xamarine-testing\MyMonkeyAppWinNative\MyMonkeyAppWinNative\MyMonkeyAppWinNative.WinPhone\MyMonkeyAppWinNative.WinPhone.csproj;neutral
-C:\Users\Utente\Documents\GitHub\xamarine-testing\MyMonkeyAppWinNative\MyMonkeyAppWinNative\MyMonkeyAppWinNative\MyMonkeyAppWinNative.csproj;neutral

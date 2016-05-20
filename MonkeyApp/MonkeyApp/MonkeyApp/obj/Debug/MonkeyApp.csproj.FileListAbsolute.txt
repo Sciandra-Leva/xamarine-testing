@@ -2,6 +2,7 @@ C:\Users\Utente\Documents\GitHub\xamarine-testing\MonkeyApp\MonkeyApp\MonkeyApp\
 C:\Users\Utente\Documents\GitHub\xamarine-testing\MonkeyApp\MonkeyApp\MonkeyApp\bin\Debug\MonkeyApp.pdb
 C:\Users\Utente\Documents\GitHub\xamarine-testing\MonkeyApp\MonkeyApp\MonkeyApp\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Utente\Documents\GitHub\xamarine-testing\MonkeyApp\MonkeyApp\MonkeyApp\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Utente\Documents\GitHub\xamarine-testing\MonkeyApp\MonkeyApp\MonkeyApp\obj\Debug\MonkeyApp.csprojResolveAssemblyReference.cache
 C:\Users\Utente\Documents\GitHub\xamarine-testing\MonkeyApp\MonkeyApp\MonkeyApp\obj\Debug\MonkeyApp.dll
 C:\Users\Utente\Documents\GitHub\xamarine-testing\MonkeyApp\MonkeyApp\MonkeyApp\obj\Debug\MonkeyApp.pdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\MonkeyApp\MonkeyApp\MonkeyApp\obj\Debug\MonkeyApp.dll.mdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\MonkeyApp\MonkeyApp\MonkeyApp\bin\Debug\MonkeyApp.dll.mdb

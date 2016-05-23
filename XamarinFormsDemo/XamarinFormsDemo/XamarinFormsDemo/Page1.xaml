@@ -3,5 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="XamarinFormsDemo.Page1"
              Title="Second Page">
+
+  <Label x:Name="MainLabel"
+         TextColor="Gray"/>
   
 </ContentPage>

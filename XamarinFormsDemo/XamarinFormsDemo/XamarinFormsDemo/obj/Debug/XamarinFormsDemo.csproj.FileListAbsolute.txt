@@ -13,7 +13,3 @@ C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemo\XamarinFormsD
 C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemo\XamarinFormsDemo\XamarinFormsDemo\obj\Debug\XamarinFormsDemo.pdb
 C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemo\XamarinFormsDemo\XamarinFormsDemo\obj\Debug\XamarinFormsDemo.csprojResolveAssemblyReference.cache
 C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemo\XamarinFormsDemo\XamarinFormsDemo\obj\Debug\XamarinFormsDemo.Page1.xaml.g.cs
-C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemo\XamarinFormsDemo\XamarinFormsDemo\obj\Debug\XamarinFormsDemo.dll.mdb
-C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemo\XamarinFormsDemo\XamarinFormsDemo\bin\Debug\XamarinFormsDemo.dll.mdb
-C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemo\XamarinFormsDemo\XamarinFormsDemo\obj\Debug\XamarinFormsDemo.dll.mdb
-C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemo\XamarinFormsDemo\XamarinFormsDemo\bin\Debug\XamarinFormsDemo.dll.mdb

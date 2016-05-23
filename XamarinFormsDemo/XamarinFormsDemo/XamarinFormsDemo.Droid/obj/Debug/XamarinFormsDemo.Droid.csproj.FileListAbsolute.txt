@@ -37,6 +37,5 @@ C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemo\XamarinFormsD
 C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemo\XamarinFormsDemo\XamarinFormsDemo.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
 C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemo\XamarinFormsDemo\XamarinFormsDemo.Droid\obj\Debug\R.cs.flag
 C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemo\XamarinFormsDemo\XamarinFormsDemo.Droid\obj\Debug\uploadflags.txt
-C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemo\XamarinFormsDemo\XamarinFormsDemo.Droid\bin\Debug\XamarinFormsDemo.dll.mdb
 C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemo\XamarinFormsDemo\XamarinFormsDemo.Droid\obj\Debug\XamarinFormsDemo.Droid.dll.mdb
 C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemo\XamarinFormsDemo\XamarinFormsDemo.Droid\bin\Debug\XamarinFormsDemo.Droid.dll.mdb

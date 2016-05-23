@@ -24,7 +24,7 @@ namespace XamarinFormsDemo
 
         private async void NavigateButton_OnClicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new Page1());
+            await Navigation.PushAsync(new Page1(MainEntry.Text));
         }
     }
 }

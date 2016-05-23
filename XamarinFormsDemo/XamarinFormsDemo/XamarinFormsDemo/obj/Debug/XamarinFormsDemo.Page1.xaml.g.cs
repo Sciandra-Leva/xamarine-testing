@@ -17,8 +17,12 @@ namespace XamarinFormsDemo {
     public partial class Page1 : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label MainLabel;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(Page1));
+            MainLabel = this.FindByName<global::Xamarin.Forms.Label>("MainLabel");
         }
     }
 }

@@ -2,6 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="XamarinFormsDemo.HomePage"
+             Title="Home Page"
              BackgroundColor="White">
 
   <StackLayout BackgroundColor="White"
@@ -10,7 +11,8 @@
   
     <Grid Padding="0,0,0,30">
       <Entry x:Name="MainEntry"
-           BackgroundColor="Gray"/>  
+           BackgroundColor="Gray"
+           Text="Type something here..."/>  
     </Grid>
     
     <Button Clicked="Button_OnClicked"

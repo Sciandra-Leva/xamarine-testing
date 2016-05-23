@@ -1,12 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="XamarinFormsDemo.HomePage">
+             x:Class="XamarinFormsDemo.HomePage"
+             BackgroundColor="White">
 
-  <StackLayout BackgroundColor="White">
+  <StackLayout BackgroundColor="White"
+               Padding="40"
+               VerticalOptions="Center">
   
-    <Entry x:Name="MainEntry"
-           BackgroundColor="Gray"/>
+    <Grid Padding="0,0,0,30">
+      <Entry x:Name="MainEntry"
+           BackgroundColor="Gray"/>  
+    </Grid>
     
     <Button Clicked="Button_OnClicked"
             Text="Say hello!"
@@ -14,8 +19,14 @@
             TextColor="White"/>
     
     <Label x:Name ="MainLabel"
-           TextColor="Gray"/>
+           TextColor="Gray" 
+           FontSize="60"/>
     
+    <Button Text="Navigate to second page"
+            Clicked="NavigateButton_OnClicked"
+            BackgroundColor="Blue">
+      
+    </Button>
     
   </StackLayout>
 

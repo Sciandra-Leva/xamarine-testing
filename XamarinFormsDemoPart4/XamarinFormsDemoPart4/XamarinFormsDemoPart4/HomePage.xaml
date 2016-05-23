@@ -38,15 +38,20 @@
     <Label Text="Title of the task"
            Style="{StaticResource CustomLabelStyle}"/>
     
-    <Entry Text="{Binding TaskModel.Title}"
+    <Entry Text="{Binding TaskModel.Title, Mode=TwoWay}"
            Style="{StaticResource CustomEntryStyle}"/>
 
     <Label Text="Duration of the task"
            Style="{StaticResource CustomLabelStyle}"/>
 
-    <Entry Text="{Binding TaskModel.Duration}"
+    <Entry Text="{Binding TaskModel.Duration, Mode=TwoWay}"
            Style="{StaticResource CustomEntryStyle}"/>
 
+    <Button Text="Save Task"
+            Command ="{Binding SaveCommand}"/>
+    
+    <Label Text="{Binding Message}"/>
+    
   </StackLayout>
   
   

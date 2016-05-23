@@ -3,13 +3,18 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="XamarinFormsDemo.HomePage">
 
-  <StackLayout>
+  <StackLayout BackgroundColor="White">
   
-    <Entry/>
+    <Entry x:Name="MainEntry"
+           BackgroundColor="Gray"/>
     
-    <Button Clicked=""/>
+    <Button Clicked="Button_OnClicked"
+            Text="Say hello!"
+            BackgroundColor="Green"
+            TextColor="White"/>
     
-    <Label/>
+    <Label x:Name ="MainLabel"
+           TextColor="Gray"/>
     
     
   </StackLayout>

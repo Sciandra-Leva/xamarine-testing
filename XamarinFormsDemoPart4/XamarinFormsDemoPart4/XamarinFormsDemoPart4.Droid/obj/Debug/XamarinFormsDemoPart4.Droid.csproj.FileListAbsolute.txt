@@ -1,0 +1,82 @@
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\XamarinFormsDemoPart4.Droid.dll
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\XamarinFormsDemoPart4.Droid.pdb
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\XamarinFormsDemoPart4.Droid.apk
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\XamarinFormsDemoPart4.Droid-Signed.apk
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\FormsViewGroup.dll
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Core.dll
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\XamarinFormsDemoPart4.dll
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\XamarinFormsDemoPart4.pdb
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\FormsViewGroup.pdb
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Core.xml
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\XamarinFormsDemoPart4.Droid.csprojResolveAssemblyReference.cache
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\XamarinFormsDemoPart4.Droid.dll
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\XamarinFormsDemoPart4.Droid.pdb
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\android\bin\XamarinFormsDemoPart4.Droid.apk
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\res\drawable\icon.png
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\res\drawable-hdpi\icon.png
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\R.cs.flag
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\uploadflags.txt
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\FormsViewGroup.dll.mdb
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\XamarinFormsDemoPart4.Droid.dll.mdb
+c:\Users\Utente\Documents\Visual Studio 2015\Projects\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\XamarinFormsDemoPart4.Droid.dll.mdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\XamarinFormsDemoPart4.Droid.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\XamarinFormsDemoPart4.Droid.pdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\XamarinFormsDemoPart4.Droid.apk
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\XamarinFormsDemoPart4.Droid-Signed.apk
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\FormsViewGroup.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\XamarinFormsDemoPart4.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\XamarinFormsDemoPart4.pdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\XamarinFormsDemoPart4.Droid.csprojResolveAssemblyReference.cache
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\XamarinFormsDemoPart4.Droid.dll
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\XamarinFormsDemoPart4.Droid.pdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\android\bin\XamarinFormsDemoPart4.Droid.apk
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\res\drawable\icon.png
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\R.cs.flag
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\uploadflags.txt
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\obj\Debug\XamarinFormsDemoPart4.Droid.dll.mdb
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFormsDemoPart4\XamarinFormsDemoPart4\XamarinFormsDemoPart4.Droid\bin\Debug\XamarinFormsDemoPart4.Droid.dll.mdb

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XamarinFormsDemoPart4.HomePage"
+             BackgroundColor="Navy">
+
+  <ContentPage.Resources>
+    
+    <ResourceDictionary>
+      
+      <Style x:Key="CustomLabelStyle"
+             TargetType="Label">
+
+        <Setter Property="TextColor"
+                Value="White"/>  
+        <Setter Property="FontSize"
+                Value="25"/>
+      </Style>
+
+      <Style x:Key="CustomEntryStyle"
+       TargetType="Entry">
+
+        <Setter Property="TextColor"
+                Value="Black"/>
+        <Setter Property="BackgroundColor"
+                Value="White"/>
+        
+        
+      </Style>
+      
+    </ResourceDictionary>
+    
+  </ContentPage.Resources>
+  
+  <StackLayout VerticalOptions="Start"
+               Padding="15">
+    
+    <Label Text="Title of the task"
+           Style="{StaticResource CustomLabelStyle}"/>
+    
+    <Entry Text="{Binding TaskModel.Title}"
+           Style="{StaticResource CustomEntryStyle}"/>
+
+    <Label Text="Duration of the task"
+           Style="{StaticResource CustomLabelStyle}"/>
+
+    <Entry Text="{Binding TaskModel.Duration}"
+           Style="{StaticResource CustomEntryStyle}"/>
+
+  </StackLayout>
+  
+  
+</ContentPage>

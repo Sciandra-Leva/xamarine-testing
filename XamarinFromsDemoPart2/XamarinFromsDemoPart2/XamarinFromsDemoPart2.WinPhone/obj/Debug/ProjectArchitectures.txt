@@ -1,0 +1,2 @@
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFromsDemoPart2\XamarinFromsDemoPart2\XamarinFromsDemoPart2.WinPhone\XamarinFromsDemoPart2.WinPhone.csproj;neutral
+C:\Users\Utente\Documents\GitHub\xamarine-testing\XamarinFromsDemoPart2\XamarinFromsDemoPart2\XamarinFromsDemoPart2\XamarinFromsDemoPart2.csproj;neutral
